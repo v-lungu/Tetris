@@ -62,7 +62,7 @@ public class Block {
         return name;
     }
 
-    public void cahngeOrientation(){
+    public void changeOrientation(){
         if (orientation !=4) {
             orientation++;
         } else {
